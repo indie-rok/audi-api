@@ -2,7 +2,10 @@ To install:
 
 You should have node and npm installed
 
-to run
+### to install:
+`npm run install`
+
+### to run:
 
 `npm run start`
 
